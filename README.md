@@ -1,6 +1,7 @@
-# mjml-starRating-component
+# MJML-StarRating-component
 
-A boilerplate to quickly get started when creating your own component.
+This MJML component is built in[React.js](https://reactjs.org/)to generate a star rating in any email Campaign. Instead of adding a rating stars as an images in the email and it might be 
+not responsive. by using this component we just need add add the TagName and specify the number of the start that we need to show.
 
 * Clone the repo
 * `npm install` inside

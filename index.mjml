@@ -12,7 +12,7 @@
           </mj-column>
         </mj-section>
         <mj-section>
-        <mj-star  countStars="1"></mj-hp>
+        <mj-star  countStars="3"></mj-star>
         </mj-section>
     </mj-container>
   </mj-body>
