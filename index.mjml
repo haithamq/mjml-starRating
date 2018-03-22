@@ -1,0 +1,19 @@
+<mjml>
+  <mj-body>
+      <mj-container>
+        <mj-section>
+          <mj-column>
+            <mj-image src="https://mjml.io/assets/img/logo-small.png" width="100%" />
+          </mj-column>
+          <mj-column>
+            <mj-text color="blue" font-size="10px">
+              Star Rating Component - Created By <a href="https://haithamq.github.io/"> haitham qudaih</a>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+        <mj-section>
+        <mj-star  countStars="1"></mj-hp>
+        </mj-section>
+    </mj-container>
+  </mj-body>
+</mjml>
